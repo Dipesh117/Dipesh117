@@ -1,28 +1,61 @@
-# Hi there 👋 I'm Dipesh Bhalani
-#### I'm a Mobile Application Developer with iOS and Android Native & Custom Application Developer. I am having 9+ yrs of experiece with developing Mobile Applications. I've experience with developing business application for e-Commerce, Social Media, Business Automation Processs, Education Based Applications, Utility type application etc.   
+<!-- Welcome -->
+<p align="center">
+    <img src="./profile-header-image.jpg" alt="Profile picture" />
+</p>
+<h1 align="center">Hi there 👋, I am Dipesh Bhalani</h1>
+<p align="center">A passionate mobile application developer who loves building good and unique mobile applications.</p>
 
-## I'm having skills below for iOS Application Development
-> #### Swift, UIKit, MVVM, MVC, AlamoFire, Combine, Facebook Core Framework, IQKeyboard, In APP Purchase (i.e. Store Kit-2, RevenueCat), WebKit, 3rd Party Payment Gateways (i.e. Stripe, Paypal, RazorPay), OneSignalNotification, HealthKit etc
+<!-- About Me -->
+### :man_technologist: About Me
+I am a mobile application developer currently looking for great Mobile Application Development work. Let's collaborate!
 
-# I'm having skills below for Android Application Development
-> #### Kotlin, Java, Firebase, RetroFit, Facebook Core Framework, IQKeyboard, In APP Purchase, 3rd Party Payment Gateways (i.e. Stripe, Paypal, RazorPay), Agora Framework, many more 
+<!-- Skills -->
+### :hammer_and_wrench: Languages & Tools
+<div>
+  <!-- Replace each icon with the corresponding one from https://fontawesome.com/v5.15/icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="AngularJS" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" height="30"/>
+  ...
+</div>
 
-# Here is my iOS Application Development work
+<!-- Projects -->
+### :open_file_folder: Recent Open Source Contributions
+<ul>
+  <li><a href="#"><strong>Project Title </strong></a>: Short description...</li>
+  <li><a href="#"><strong>Project Title </strong></a>: Short description...</li>
+  <li><a href="#"><strong>Project Title </strong></a>: Short description...</li>
+  ....
+</ul>
 
-## Luvie - Contraction Timer and Baby Kick Counter
+<!-- Blog posts -->
+### :memo: Latest Articles
+<ul>
+  <li><a href="#"><strong>Article Title</strong></a>: Brief summary...</li>
+  <li><a href="#"><strong>Article Title</strong></a>: Brief summary...</li>
+  <li><a href="#"><strong>Article Title</strong></a>: Brief summary...</li>
+  ....
+</ul>
+
+<!-- Social Media Links -->
+### :globe_with_meridians: Find Me Online
+<div>
+  <!-- Replace each URL below with yours and remove unused ones -->
+  <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/YourTwitterHandle"><i class="fab fa-twitter"></i></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/yourlinkedinhandle/"><i class="fab fa-linkedin"></i></a>
+  <a target="_blank" rel="noopener noreferrer" href="mailto:youremail@example.com"><i class="fas fa-envelope"></i></a>
+  ....
+</div>
+
+<!-- Contact Form -->
+### :email: Get In Touch
+If you wish to discuss potential opportunities or share interesting topics related to development, please fill out the following form:
 
 
-<!--
-**Dipesh117/Dipesh117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Contact Form](contact-form-url)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Footer -->
+<hr style="border:none; border-top:1px solid rgb(204, 204, 204); margin:2em auto; width:60%;"/>
+<p align="center">Made with love by Your Name | © {{ year }}</p>
