@@ -1,6 +1,6 @@
 <!-- Welcome -->
 <p align="center">
-    <img src="./profile-header-image.jpg" alt="Profile picture" />
+    <img src="https://dipeshbhalani.com/wp-content/uploads/2021/04/Rectangle-4.png" alt="Profile picture" />
 </p>
 <h1 align="center">Hi there 👋, I am Dipesh Bhalani</h1>
 <p align="center">A passionate mobile application developer who loves building good and unique mobile applications.</p>
