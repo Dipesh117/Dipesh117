@@ -1,4 +1,3 @@
-<!-- Welcome -->
 <p align="center">
     <img src="https://dipeshbhalani.com/wp-content/uploads/2021/04/Rectangle-4.png" alt="Profile picture" />
 </p>
